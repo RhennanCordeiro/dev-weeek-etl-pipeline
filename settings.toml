@@ -1,0 +1,5 @@
+title = "Settings for ETL Pipeline"
+
+[default]
+sdw_api = "https://sdw-2023-prd.up.railway.app"
+openai_api_key = "Set_ME"

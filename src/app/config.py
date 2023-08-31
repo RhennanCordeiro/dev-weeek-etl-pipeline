@@ -1,0 +1,8 @@
+"""
+File for define settings for parse toml file
+"""
+from dynaconf import Dynaconf
+
+settings = Dynaconf(
+    settings_files=['../../settings.toml'],
+)
